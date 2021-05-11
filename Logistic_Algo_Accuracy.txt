@@ -1,0 +1,51 @@
+Generating report for accuracy of multiple iterations of Logistic algorithm with different samples.
+
+
+ ------------------Iteration # :  1 ------------------
+The accuracy of the developed model is  96.08 %
+Accuracy of Logistic Regression using sklearn is :  94.12 %
+
+
+ ------------------Iteration # :  2 ------------------
+The accuracy of the developed model is  96.08 %
+Accuracy of Logistic Regression using sklearn is :  96.08 %
+
+
+ ------------------Iteration # :  3 ------------------
+The accuracy of the developed model is  96.08 %
+Accuracy of Logistic Regression using sklearn is :  96.08 %
+
+
+ ------------------Iteration # :  4 ------------------
+The accuracy of the developed model is  96.08 %
+Accuracy of Logistic Regression using sklearn is :  94.12 %
+
+
+ ------------------Iteration # :  5 ------------------
+The accuracy of the developed model is  94.12 %
+Accuracy of Logistic Regression using sklearn is :  94.12 %
+
+
+ ------------------Iteration # :  6 ------------------
+The accuracy of the developed model is  96.08 %
+Accuracy of Logistic Regression using sklearn is :  98.04 %
+
+
+ ------------------Iteration # :  7 ------------------
+The accuracy of the developed model is  98.04 %
+Accuracy of Logistic Regression using sklearn is :  98.04 %
+
+
+ ------------------Iteration # :  8 ------------------
+The accuracy of the developed model is  92.16 %
+Accuracy of Logistic Regression using sklearn is :  94.12 %
+
+
+ ------------------Iteration # :  9 ------------------
+The accuracy of the developed model is  92.16 %
+Accuracy of Logistic Regression using sklearn is :  94.12 %
+
+
+ ------------------Iteration # :  10 ------------------
+The accuracy of the developed model is  98.04 %
+Accuracy of Logistic Regression using sklearn is :  98.04 %
